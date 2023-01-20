@@ -1,10 +1,3 @@
-<ul>
-      <li><a href="https://github.com/sinigami666/School-management-System-Codigniter/edit/main/README.md#introduction-of-school-management-system">Introduction of school management system</a></li>
-      <li><a href="https://github.com/sinigami666/School-management-System-Codigniter/edit/main/README.md#language-and-technology-used-in-this-project">Language and technology used in this project</a></li>
-      <li><a href="https://github.com/sinigami666/School-management-System-Codigniter/edit/main/README.md#screenshots">Screenshots</a></li>
-      <li><a href="https://github.com/sinigami666/School-management-System-Codigniter/edit/main/README.md#contributor">Contributor</a></li>
-</ul>
-<hr/>
 <h1>Introduction of school management system</h1>
 <p>This a school management system using "Codeigniter With PHP". This management system has a student portal, a teacher portal and a admin portal.
 A student will be able to pay his/her fees. A student can practice with there code, can download pdf notes, can watch video lecture uploaded by his/her teacher.

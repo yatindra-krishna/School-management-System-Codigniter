@@ -19,5 +19,12 @@ This portal will help students to revise all the topics taught by their teacher.
 <img src="#" alt="Yet to upload">
 <img src="#" alt="Yet to upload">
 <img src="#" alt="Yet to upload">
-<h1>Contributor</h1>
-
+<h1>Project Admin ❤️</h1>
+<p align="center">
+<table>
+  <tbody><tr>
+     <td align="center"><a href="https://github.com/sinigami666"><img alt="" src="https://avatars.githubusercontent.com/sinigami666" width="100px;"><br><sub><b> Aadarsh Singh </b></sub></a><br></td> </a></td>
+</tbody></table>
+<h1>Happy Coding 👨‍💻 </h1>
+Feel free to contribute to this repo.<br/>
+Show some ❤️&nbsp; by giving the star :star: to this repository!!
